@@ -1,6 +1,8 @@
 # When done, submit this entire file to the autograder.
 
 # Part 1
+#
+# This is a test comment for my first commit.
 
 def sum arr
   # YOUR CODE HERE
